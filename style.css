@@ -156,7 +156,8 @@ input::-moz-focus-inner {
   box-sizing: border-box;
 }
 
-/* Some default styles to make each box visible */
+/* Some
+ default styles to make each box visible */
 .box {
   color: white;
   font-size: 100px;
@@ -201,11 +202,5 @@ input::-moz-focus-inner {
 .container {
   display: flex;
   border: 10px solid goldenrod;
-  height: 100vh;
-  flex-wrap: wrap;
 }
 
-.box {
-    width: 33.33%;
-    margin: 10px;
-}

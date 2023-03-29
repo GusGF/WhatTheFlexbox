@@ -203,9 +203,9 @@ input::-moz-focus-inner {
   border: 10px solid goldenrod;
   height: 100vh;
   flex-wrap: wrap;
-  flex-direction: column;
 }
 
 .box {
-    width: 33%;
+    width: 33.33%;
+    margin: 10px;
 }

@@ -199,6 +199,6 @@ input::-moz-focus-inner {
 
 /* We start writing out flexbox here. The above is just page setup */
 .container {
-  display: flex;
+  display: inline-flex;
   border: 10px solid goldenrod;
 }

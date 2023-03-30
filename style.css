@@ -202,4 +202,5 @@ input::-moz-focus-inner {
 .container {
   border: 10px solid blue;
   display: flex;
+  justify-content: space-between;
 }
